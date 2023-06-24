@@ -1,0 +1,92 @@
+cookbook:
+  - food:
+      name: 西红柿炒鸡蛋
+      time: 15min
+      image: https://th.bing.com/th/id/OIG.EFjwvM4obxoewCWnpGuz?pid=ImgGn
+      url: //player.bilibili.com/player.html?aid=784823991&bvid=BV1914y1S7sG&cid=1162902313&page=1&autoplay=0
+      list:
+        - name: 西红柿
+          id: 111
+          num: 1
+          unit: 个
+        - name: 鸡蛋
+          id: 222
+          num: 2
+          unit: 个
+        - name: 油
+          id: 333
+          num: 1
+          unit: 勺
+        - name: 盐
+          id: 444
+          num: 0.5
+          unit: 勺
+      step:
+        - 洗西红柿
+        - 切西红柿
+        - 打鸡蛋
+        - 炒鸡蛋
+        - 放入西红柿
+        - 和鸡蛋一起炒
+        - 放盐
+        - 出锅
+  - food:
+      name: 凉拌黄瓜
+      time: 10min
+      image: https://th.bing.com/th/id/OIG.m_ftdX9XGEHUu0_CfAKs?pid=ImgGn
+      url: //player.bilibili.com/player.html?aid=784823991&bvid=BV1914y1S7sG&cid=1162902313&page=1&autoplay=0
+      list:
+        - name: 黄瓜
+          id: 555
+          num: 1
+          unit: 个
+        - name: 大蒜
+          id: 666
+          num: 5
+          unit: 瓣
+        - name: 盐
+          id: 444
+          num: 1
+          unit: 勺
+        - name: 醋
+          id: 777
+          num: 2
+          unit: 勺
+      step:
+        - 洗黄瓜
+        - 拍黄瓜
+        - 拍蒜
+        - 把蒜和黄瓜混合
+        - 放盐
+        - 放醋
+        - 搅拌均匀
+  - food:
+      name: 凉拌黄瓜
+      time: 10min
+      image: https://th.bing.com/th/id/OIG.m_ftdX9XGEHUu0_CfAKs?pid=ImgGn
+      url: //player.bilibili.com/player.html?aid=784823991&bvid=BV1914y1S7sG&cid=1162902313&page=1&autoplay=0
+      list:
+        - name: 黄瓜
+          id: 555
+          num: 1
+          unit: 个
+        - name: 大蒜
+          id: 666
+          num: 5
+          unit: 瓣
+        - name: 盐
+          id: 444
+          num: 1
+          unit: 勺
+        - name: 醋
+          id: 777
+          num: 2
+          unit: 勺
+      step:
+        - 洗黄瓜
+        - 拍黄瓜
+        - 拍蒜
+        - 把蒜和黄瓜混合
+        - 放盐
+        - 放醋
+        - 搅拌均匀
